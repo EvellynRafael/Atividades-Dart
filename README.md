@@ -4,11 +4,12 @@ Códigos com as resoluções das atividades feitas durante o curso da Alura de D
 ## 1) Dando um “oi” para o mundo (helloWorld.dart)
 Você recebeu o seguinte código que deveria rodar um “*Hello, World!*” no terminal:
 
-void main() {
+*void main() {
   
 }
-print('Hello, World!')
-Copiar código
+print('Hello, World!')*
+
+
 No entanto, o código não funciona!
 
 Como você pode *corrigir esse código e fazer funcionar o “Hello, World!”*?
