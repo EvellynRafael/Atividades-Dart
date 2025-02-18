@@ -4,10 +4,10 @@ Códigos com as resoluções das atividades feitas durante o curso da Alura de D
 ## 1) Dando um “oi” para o mundo (helloWorld.dart)
 Você recebeu o seguinte código que deveria rodar um “*Hello, World!*” no terminal:
 
-*void main() {
+void main() {
   
 }
-print('Hello, World!')*
+print('Hello, World!')
 
 
 No entanto, o código não funciona!
@@ -21,7 +21,8 @@ void main() {
   print("Olá, me chamo Dart. Qual o seu nome?");
   String? nome = stdin.readLineSync;
   print("Muito prazer, nome. Vamos fazer vários programas juntos.");
-Copiar código
+  
+
 O código deveria funcionar conforme vimos durante as videoaulas. Mas, por conta de alguns erros na escrita, o código não roda adequadamente.
 
 Abra seu VSCode e corrija o código, fazendo com que ele faça as seguintes ações no terminal:
