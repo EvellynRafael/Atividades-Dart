@@ -39,3 +39,6 @@ Exibe uma mensagem personalizada com essas duas informações (por exemplo, "Ol�
 
 ## 4) Calculando o dobro de um número (dobroFuncoes.dart)
 Faça um programa simples que calcula o dobro de um número inserido no terminal.
+
+## 5) Descobrindo a média de idades (idadeMedia.dart)
+Escreva um programa que calcula a idade média de três pessoas. O usuário deve ser capaz de inserir as três idades e, ao final, o programa exibe a média dos números.
