@@ -32,8 +32,10 @@ Permitir que a pessoa digitar o próprio nome;
 Exibir uma segunda mensagem que contém o nome digitado.
 
 ## 3) Solicitando a idade de usuário (nomeIdade.dart)
-
 Implemente um programa em Dart que faz as seguintes ações:
 
 Captura o nome e a idade do usuário;
 Exibe uma mensagem personalizada com essas duas informações (por exemplo, "Olá [nome], você tem [idade] anos!").
+
+## 4) Calculando o dobro de um número (dobroFuncoes.dart)
+Faça um programa simples que calcula o dobro de um número inserido no terminal.
