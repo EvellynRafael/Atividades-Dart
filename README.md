@@ -43,7 +43,7 @@ Faça um programa simples que calcula o dobro de um número inserido no terminal
 ## 5) Descobrindo a média de idades (idadeMedia.dart)
 Escreva um programa que calcula a idade média de três pessoas. O usuário deve ser capaz de inserir as três idades e, ao final, o programa exibe a média dos números.
 
-## 6) Escrevendo a ficha de participante
+## 6) Escrevendo a ficha de participante (fichaParticipante.dart)
 Desenvolva um programa que exibe uma pequena “ficha” com informações suas, utilizando os conhecimentos do Dart! As informações da ficha são:
 
 Nome;
