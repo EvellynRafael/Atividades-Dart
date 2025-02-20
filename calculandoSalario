@@ -1,0 +1,12 @@
+void main(){
+  print("Digite o número de horas trabalhadas");
+  int horasTrabalhadas = int.parse(stdin.readLineSync()!);
+
+  double taxaHora = 50;
+  double salarioBruto = taxaHora * horasTrabalhadas;
+
+  double desconto = salarioBruto * 0.05;
+  double salarioLiquido = salarioBruto - desconto;
+
+   print('O salário líquido é R\$ $salarioLiquido.');
+}
