@@ -52,3 +52,44 @@ Idade;
 Altura;
 Participo da comunidade?
 Declare esses dados dentro da variável e depois imprima-os no terminal.
+
+## 7) calculandoSalario (calculandoSalario.dart)
+Você foi contratado para um trabalho freelance. Crie um programa que lê as horas trabalhadas e calcula o salário líquido, considerando:
+
+A empresa paga 50 reais por hora trabalhada;
+O desconto do salário é de 5% e deve ser subtraído do salário bruto.
+
+## 8) Consertando erros em um programa (programaErro.dart)
+Você está trabalhando em um programa de banco, que faz três ações:
+
+Mostrar o saldo bancário do usuário;
+Permitir que o usuário faça uma transferência pix (de forma simplificada);
+Subtrair o valor do pix do valor de saldo.
+
+Logo, sua tarefa faça as correções no código fornecido. Veja as dicas:
+
+Abra um novo projeto Dart em seu computador;
+Copie e cole o código acima;
+Faça os ajustes necessários no código;
+Rode o programa no terminal e verifique se ele apresenta os comportamentos esperados.
+
+## 9)  Identificando e corrigindo tipos no Dart (corrigirTipos.dart)
+Chegou nas suas mãos um programa de retirada de pontos de um clube de benefícios.
+
+A lógica deve ser a seguinte:
+
+Os pontos iniciais começam no valor 100;
+O programa inicia com uma mensagem: “*Você tem [x] pontos.*”;
+Em seguida, exibe a mensagem: “*Quantos pontos você gostaria de resgatar?*”;
+O usuário digita quantos [y] pontos deseja retirar;
+O programa faz uma subtração (pontos iniciais [100] - pontos retirados [y]);
+Por fim, mostra uma mensagem que informa: “Você resgatou [y] pontos. Pontos restantes: [z].””
+
+## 10)  Refatorando o código do clube de benefícios com função (refatorando.dart)
+Se você resolveu o exercício anterior, agora refatore (modifique) o código, colocando a funcionalidade de subtração de pontos dentro de uma função.
+
+## 11) Implementando um programa de cupons (cupons.dart)
+Escreva um programa que informa quantos cupons um cliente ganhou ao fazer compras no mercado No Precinho. A regra da promoção é: a cada 50 reais gastos por compra, a pessoa recebe um cupom. O programa deve:
+
+Capturar a entrada com o valor gasto;
+Exibir mensagem de quantos cupons foram ganhos.
