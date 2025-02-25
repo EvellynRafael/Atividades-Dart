@@ -93,3 +93,9 @@ Escreva um programa que informa quantos cupons um cliente ganhou ao fazer compra
 
 Capturar a entrada com o valor gasto;
 Exibir mensagem de quantos cupons foram ganhos.
+
+## 12) Imprimindo números no terminal (numerolimite.dart)
+Imprima, no console, os números de 1 a 5 com o laço for.
+
+## 13) Mostrando nomes no terminal
+Crie uma lista de nomes que é exibida no terminal com o for. Os nomes podem ser: Ana, João e Maria.
