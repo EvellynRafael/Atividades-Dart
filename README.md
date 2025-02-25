@@ -97,5 +97,8 @@ Exibir mensagem de quantos cupons foram ganhos.
 ## 12) Imprimindo números no terminal (numerolimite.dart)
 Imprima, no console, os números de 1 a 5 com o laço for.
 
-## 13) Mostrando nomes no terminal
+## 13) Mostrando nomes no terminal (listanomes.dart)
 Crie uma lista de nomes que é exibida no terminal com o for. Os nomes podem ser: Ana, João e Maria.
+
+## 14) Em busca da parada (letras.dart)
+Escreva um programa que imprime letras de uma frase “Parou! Este código não continua.” A ideia é que o código pare na primeira letra “!” encontrada.
